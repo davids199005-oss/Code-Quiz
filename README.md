@@ -110,4 +110,4 @@ src/
 
 ## License
 
-Private / unlicensed. Use as you like for learning or personal projects.
+MIT
