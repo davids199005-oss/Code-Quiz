@@ -110,4 +110,5 @@ src/
 
 ## License
 
-MIT
+MIT 
+Copyright © 2026 David Veryutin
