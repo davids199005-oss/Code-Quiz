@@ -1,0 +1,30 @@
+.Output-answer {
+  line-height: 1.7;
+}
+
+.Output-answer p {
+  margin-bottom: 0.75rem;
+}
+
+.Output-answer ul {
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.Output-answer li {
+  margin-bottom: 0.5rem;
+}
+
+.Output-answer pre {
+  background-color: #0f172a;
+  color: #e5e7eb;
+  padding: 1rem;
+  border-radius: 0.375rem;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  margin: 1rem 0;
+}
+
+.Output-answer code {
+  font-family: "Fira Code", monospace;
+}
